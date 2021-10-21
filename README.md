@@ -1,2 +1,3 @@
-# python-bynance
-The program for trading on bynance.
+# Python-bynance
+Simple program for trading on bynance.
+
